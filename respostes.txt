@@ -21,3 +21,5 @@ Respostes a les activitats:
 12. -> D. dirección = 172.18.64.0, broadcast 172.18.71.255
 
 13. -> B. 255.255.252.0
+
+14. -> B. /21
