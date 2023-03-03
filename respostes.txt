@@ -28,4 +28,4 @@ Respostes a les activitats:
 
 16. -> D. dirección = 192.168.85.128, broadcast 192.168.85.191
 
-
+17. -> A. 62 subredes con 2 hosts
