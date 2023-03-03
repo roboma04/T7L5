@@ -16,3 +16,4 @@ Respostes a les activitats:
 
 8-2. -> E. Ninguna de las respuestas es correcta.
 
+10. -> C. 255.240.0.0
