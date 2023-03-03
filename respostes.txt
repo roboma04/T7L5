@@ -17,3 +17,6 @@ Respostes a les activitats:
 8-2. -> E. Ninguna de las respuestas es correcta.
 
 10. -> C. 255.240.0.0
+
+12. -> D. dirección = 172.18.64.0, broadcast 172.18.71.255
+
