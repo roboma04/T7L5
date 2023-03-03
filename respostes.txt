@@ -31,3 +31,5 @@ Respostes a les activitats:
 17. -> A. 62 subredes con 2 hosts
 
 18. -> A.126 subredes y 510 hosts
+
+20. -> D. 255.255.254.0
